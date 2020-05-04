@@ -14,6 +14,11 @@ $ rails new blog
 $ cd blog
 ```
 
+### Installing dependencies
+```
+$ bundle install
+```
+
 ### starting up the Web Server
 ```
 $ rails server
