@@ -14,7 +14,7 @@ $ rails new blog
 $ cd blog
 ```
 
-### Installing dependencies
+### installing dependencies
 ```
 $ bundle install
 ```
